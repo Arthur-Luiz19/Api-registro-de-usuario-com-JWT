@@ -72,7 +72,6 @@ api-node-jwt/
 
 ## Resposta:
 ```json
-Copiar código
 {
   "message": "Usuário cadastrado com sucesso!"
 }
